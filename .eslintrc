@@ -1,0 +1,7 @@
+{
+  "extends": "@react-native",
+  "plugin": "react/jsx-runtime",
+  "rules": {
+    "quotes": [2, "double", { "avoidEscape": true }]
+  }
+}

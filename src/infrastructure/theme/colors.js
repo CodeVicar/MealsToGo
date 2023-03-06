@@ -3,6 +3,7 @@ export const colors = {
     primary: "#696AC3",
     secondary: "#5D6CC6",
     muted: "#C6DAF7",
+    test: "#F7F7F7",
   },
   ui: {
     primary: "#262626",
